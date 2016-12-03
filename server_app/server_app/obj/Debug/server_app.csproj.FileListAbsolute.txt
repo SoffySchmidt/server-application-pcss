@@ -1,0 +1,18 @@
+d:\DRKsettings$\local\cjuul\Desktop\srv_cl\server_app\server_app\bin\Debug\server_app.exe.config
+d:\DRKsettings$\local\cjuul\Desktop\srv_cl\server_app\server_app\bin\Debug\server_app.exe
+d:\DRKsettings$\local\cjuul\Desktop\srv_cl\server_app\server_app\bin\Debug\server_app.pdb
+d:\DRKsettings$\local\cjuul\Desktop\srv_cl\server_app\server_app\obj\Debug\server_app.csprojResolveAssemblyReference.cache
+d:\DRKsettings$\local\cjuul\Desktop\srv_cl\server_app\server_app\obj\Debug\server_app.exe
+d:\DRKsettings$\local\cjuul\Desktop\srv_cl\server_app\server_app\obj\Debug\server_app.pdb
+C:\Users\Sofie Schmidt\Desktop\srv_cl\server_app\server_app\bin\Debug\server_app.exe.config
+C:\Users\Sofie Schmidt\Desktop\srv_cl\server_app\server_app\obj\Debug\server_app.exe
+C:\Users\Sofie Schmidt\Desktop\srv_cl\server_app\server_app\obj\Debug\server_app.pdb
+C:\Users\Sofie Schmidt\Desktop\srv_cl\server_app\server_app\bin\Debug\server_app.exe
+C:\Users\Sofie Schmidt\Desktop\srv_cl\server_app\server_app\bin\Debug\server_app.pdb
+C:\Users\Sofie Schmidt\Desktop\srv_cl\server_app\server_app\obj\Debug\server_app.csprojResolveAssemblyReference.cache
+C:\Users\LaChris\Desktop\srv_cl_calculater\srv_cl\server_app\server_app\bin\Debug\server_app.exe.config
+C:\Users\LaChris\Desktop\srv_cl_calculater\srv_cl\server_app\server_app\obj\Debug\server_app.exe
+C:\Users\LaChris\Desktop\srv_cl_calculater\srv_cl\server_app\server_app\obj\Debug\server_app.pdb
+C:\Users\LaChris\Desktop\srv_cl_calculater\srv_cl\server_app\server_app\bin\Debug\server_app.exe
+C:\Users\LaChris\Desktop\srv_cl_calculater\srv_cl\server_app\server_app\bin\Debug\server_app.pdb
+C:\Users\LaChris\Desktop\srv_cl_calculater\srv_cl\server_app\server_app\obj\Debug\server_app.csprojResolveAssemblyReference.cache
