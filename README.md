@@ -5,5 +5,5 @@ miniproject @ AAU CPH MED3 2016
 <ol><strong>This repository holds:</strong>
 <li> A .cs solution for a TCP server </li>
 <li> A class diagram illustrating relationship between server class and client class (client class found in client solution in other repository here: https://github.com/SoffySchmidt/client-application-pcsss.git or git@github.com:SoffySchmidt/client-application-pcsss.git)</li>
-<li> A sequence diagram modelling communication at class level (role/class)</li>
+<li> A sequence diagram on server solution modelling communication at class level (role/class)</li>
 </ol>
